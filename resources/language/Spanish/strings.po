@@ -116,7 +116,7 @@ msgstr "Utilizar CloudHole"
 
 msgctxt "#32050"
 msgid "Exceptions"
-msgstr "Exceptiones"
+msgstr "Excepciones"
 
 msgctxt "#32051"
 msgid "Comma-separated list of providers to exclude, eg. yts, rarbg"
